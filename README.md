@@ -58,7 +58,8 @@ Click on the sections below to explore detailed topics:
 
 ---
 
-### 📌 Engineering Mathematics  
+### 📌 Engineering Mathematics
+<a name="engineering-mathematics"></a>
 
 #### **Linear Algebra**  
 - Matrix algebra, linear equations, eigenvalues & eigenvectors 
@@ -136,7 +137,7 @@ equations.
 ---
 
 ### 📌 Applied Mechanics and Design  
-
+<a name="applied-mechanics-and-design"></a>
 #### **Engineering Mechanics**  
 - Free-body diagrams and equilibrium; friction and its applications 
 including rolling friction, belt-pulley, brakes, clutches, screw jack, wedge, vehicles, etc.; 
@@ -195,7 +196,7 @@ welded joints; shafts, gears, rolling and sliding contact bearings, brakes and c
 ---
 
 ### 📌 Fluid Mechanics and Thermal Sciences  
-
+<a name="fluid-mechanics-and-thermal-sciences"></a>
 #### **Fluid Mechanics**  
 - Fluid properties; fluid statics, forces on submerged bodies, stability of 
 floating bodies; control-volume analysis of mass, momentum and energy; fluid acceleration; 
@@ -250,7 +251,7 @@ turbines; steam and gas turbines.
 ---
 
 ### 📌 Manufacturing, Production & Industrial Engineering  
-
+<a name="manufacturing-production-industrial-engineering"></a>
 #### **Engineering Materials & Manufacturing Processes**  
 - Engineering Materials: Structure and properties of engineering materials, phase diagrams, heat 
 treatment, stress-strain diagrams for engineering materials.
