@@ -23,7 +23,13 @@ Click on the sections below to explore detailed topics:
 #### **Verbal Aptitude**  
 - Basic English grammar: tenses, articles, adjectives, prepositions, conjunctions, verb-noun agreement, and parts of speech  
 - Basic vocabulary: words, idioms, and phrases in context  
-- Reading and comprehension, narrative sequencing  
+- Reading and comprehension, narrative sequencing 
+
+📚 **Resources:**  
+- 🎥 [Lecture Videos](#)  
+- 📝 [Handwritten Notes](#)  
+- 📑 [Test Series](#)  
+- 🔄 [Revision Lectures](#)   
 
 #### **Quantitative Aptitude**  
 - Data interpretation (bar graphs, pie charts, tables)  
@@ -31,9 +37,21 @@ Click on the sections below to explore detailed topics:
 - Mensuration and geometry  
 - Elementary statistics and probability  
 
+📚 **Resources:**  
+- 🎥 [Lecture Videos](#)  
+- 📝 [Handwritten Notes](#)  
+- 📑 [Test Series](#)  
+- 🔄 [Revision Lectures](#)  
+
 #### **Analytical & Spatial Aptitude**  
 - Logic (deduction, induction, analogy, numerical relations)  
 - Transformation of shapes (rotation, scaling, mirroring, folding, and 3D patterns)  
+
+📚 **Resources:**  
+- 🎥 [Lecture Videos](#)  
+- 📝 [Handwritten Notes](#)  
+- 📑 [Test Series](#)  
+- 🔄 [Revision Lectures](#)  
 
 🔗 **[Back to Top](#syllabus-breakdown)**  
 
@@ -42,7 +60,13 @@ Click on the sections below to explore detailed topics:
 ### 📌 Engineering Mathematics  
 
 #### **Linear Algebra**  
-- Matrix algebra, linear equations, eigenvalues & eigenvectors  
+- Matrix algebra, linear equations, eigenvalues & eigenvectors 
+ 
+📚 **Resources:**  
+- 🎥 [Lecture Videos](#)  
+- 📝 [Handwritten Notes](#)  
+- 📑 [Test Series](#)  
+- 🔄 [Revision Lectures](#)  
 
 #### **Calculus**  
 -  Functions of single variable, limit, continuity and differentiability, mean value 
@@ -52,24 +76,59 @@ maxima and minima, Fourier series; gradient, divergence and curl, vector identit
 derivatives, line, surface and volume integrals, applications of Gauss, Stokes and Green’s 
 theorems.  
 
+📚 **Resources:**  
+- 🎥 [Lecture Videos](#)  
+- 📝 [Handwritten Notes](#)  
+- 📑 [Test Series](#)  
+- 🔄 [Revision Lectures](#)  
+
 #### **Differential Equations**  
 - First order equations (linear and nonlinear); higher order linear 
 differential equations with constant coefficients; Euler-Cauchy equation; initial and boundary 
 value problems; Laplace transforms; solutions of heat, wave and Laplace's equations.  
 
+
+📚 **Resources:**  
+- 🎥 [Lecture Videos](#)  
+- 📝 [Handwritten Notes](#)  
+- 📑 [Test Series](#)  
+- 🔄 [Revision Lectures](#)  
+
 #### **Complex Variables**  
 -  Analytic functions; Cauchy-Riemann equations; Cauchy’s integral 
 theorem and integral formula; Taylor and Laurent series. 
+
+
+📚 **Resources:**  
+- 🎥 [Lecture Videos](#)  
+- 📝 [Handwritten Notes](#)  
+- 📑 [Test Series](#)  
+- 🔄 [Revision Lectures](#)  
+
 
 #### **Probability & Statistics**  
 - Definitions of probability, sampling theorems, conditional 
 probability; mean, median, mode and standard deviation; random variables, binomial, Poisson 
 and normal distributions. 
 
+📚 **Resources:**  
+- 🎥 [Lecture Videos](#)  
+- 📝 [Handwritten Notes](#)  
+- 📑 [Test Series](#)  
+- 🔄 [Revision Lectures](#)  
+
+
 #### **Numerical Methods**  
 - Numerical solutions of linear and non-linear algebraic equations; 
 integration by trapezoidal and Simpson’s rules; single and multi-step methods for differential 
 equations. 
+
+
+📚 **Resources:**  
+- 🎥 [Lecture Videos](#)  
+- 📝 [Handwritten Notes](#)  
+- 📑 [Test Series](#)  
+- 🔄 [Revision Lectures](#)  
 
 🔗 **[Back to Top](#syllabus-breakdown)**  
 
@@ -81,7 +140,13 @@ equations.
 - Free-body diagrams and equilibrium; friction and its applications 
 including rolling friction, belt-pulley, brakes, clutches, screw jack, wedge, vehicles, etc.; 
 trusses and frames; virtual work; kinematics and dynamics of rigid bodies in plane motion; 
-impulse and momentum (linear and angular) and energy formulations; Lagrange’s equation.  
+impulse and momentum (linear and angular) and energy formulations; Lagrange’s equation. 
+ 
+📚 **Resources:**  
+- 🎥 [Lecture Videos](#)  
+- 📝 [Handwritten Notes](#)  
+- 📑 [Test Series](#)  
+- 🔄 [Revision Lectures](#)  
 
 #### **Mechanics of Materials**  
 -  Stress and strain, elastic constants, Poisson's ratio; Mohr’s circle for 
@@ -91,17 +156,38 @@ shafts; Euler’s theory of columns; energy methods; thermal stresses; strain ga
 rosettes; testing of materials with universal testing machine; testing of hardness and impact 
 strength.  
 
+📚 **Resources:**  
+- 🎥 [Lecture Videos](#)  
+- 📝 [Handwritten Notes](#)  
+- 📑 [Test Series](#)  
+- 🔄 [Revision Lectures](#)  
+
+
+
 #### **Theory of Machines & Vibrations**  
 - Displacement, velocity and acceleration analysis of plane mechanisms; 
 dynamic analysis of linkages; cams; gears and gear trains; flywheels and governors; balancing 
 of reciprocating and rotating masses; gyroscope. 
 Vibrations: Free and forced vibration of single degree of freedom systems, effect of damping; 
-vibration isolation; resonance; critical speeds of shafts.   
+vibration isolation; resonance; critical speeds of shafts.
+
+📚 **Resources:**  
+- 🎥 [Lecture Videos](#)  
+- 📝 [Handwritten Notes](#)  
+- 📑 [Test Series](#)  
+- 🔄 [Revision Lectures](#)     
 
 #### **Machine Design**  
 - Design for static and dynamic loading; failure theories; fatigue strength and 
 the S-N diagram; principles of the design of machine elements such as bolted, riveted and 
 welded joints; shafts, gears, rolling and sliding contact bearings, brakes and clutches, springs.  
+
+📚 **Resources:**  
+- 🎥 [Lecture Videos](#)  
+- 📝 [Handwritten Notes](#)  
+- 📑 [Test Series](#)  
+- 🔄 [Revision Lectures](#)  
+
 
 🔗 **[Back to Top](#syllabus-breakdown)**  
 
@@ -116,6 +202,13 @@ differential equations of continuity and momentum; Bernoulli’s equation; dimen
 analysis; viscous flow of incompressible fluids, boundary layer, elementary turbulent flow, 
 flow through pipes, head losses in pipes, bends and fittings; basics of compressible fluid flow.  
 
+📚 **Resources:**  
+- 🎥 [Lecture Videos](#)  
+- 📝 [Handwritten Notes](#)  
+- 📑 [Test Series](#)  
+- 🔄 [Revision Lectures](#)  
+
+
 #### **Heat Transfer**  
 - Modes of heat transfer; one dimensional heat conduction, resistance concept 
 and electrical analogy, heat transfer through fins; unsteady heat conduction, lumped 
@@ -124,6 +217,13 @@ and forced convective heat transfer, heat transfer correlations for flow over fl
 through pipes, effect of turbulence; heat exchanger performance, LMTD and NTU methods; 
 radiative heat transfer, Stefan- Boltzmann law, Wien's displacement law, black and grey 
 surfaces, view factors, radiation network analysis
+
+📚 **Resources:**  
+- 🎥 [Lecture Videos](#)  
+- 📝 [Handwritten Notes](#)  
+- 📑 [Test Series](#)  
+- 🔄 [Revision Lectures](#)  
+
 
 #### **Thermodynamics & Applications**  
 - Thermodynamic systems and processes; properties of pure substances, 
@@ -137,6 +237,13 @@ properties of moist air, psychrometric chart, basic psychrometric processes. Tur
 Impulse and reaction principles, velocity diagrams, Pelton-wheel, Francis and Kaplan 
 turbines; steam and gas turbines. 
 
+📚 **Resources:**  
+- 🎥 [Lecture Videos](#)  
+- 📝 [Handwritten Notes](#)  
+- 📑 [Test Series](#)  
+- 🔄 [Revision Lectures](#)  
+
+
 🔗 **[Back to Top](#syllabus-breakdown)**  
 
 ---
@@ -147,6 +254,13 @@ turbines; steam and gas turbines.
 - Engineering Materials: Structure and properties of engineering materials, phase diagrams, heat 
 treatment, stress-strain diagrams for engineering materials.
 
+
+📚 **Resources:**  
+- 🎥 [Lecture Videos](#)  
+- 📝 [Handwritten Notes](#)  
+- 📑 [Test Series](#)  
+- 🔄 [Revision Lectures](#)  
+
 #### **Casting, Forming and Joining Processes**  
 - Different types of castings, design of patterns, moulds 
 and cores; solidification and cooling; riser and gating design. Plastic deformation and yield 
@@ -154,17 +268,37 @@ criteria; fundamentals of hot and cold working processes; load estimation for bu
 rolling, extrusion, drawing) and sheet (shearing, deep drawing, bending) metal forming processes; principles of powder metallurgy. Principles of welding, brazing, soldering and 
 adhesive bonding.
 
+📚 **Resources:**  
+- 🎥 [Lecture Videos](#)  
+- 📝 [Handwritten Notes](#)  
+- 📑 [Test Series](#)  
+- 🔄 [Revision Lectures](#)  
+
+
 #### **Machining and Machine Tool Operations**  
 -Mechanics of machining; basic machine tools; single 
 and multi-point cutting tools, tool geometry and materials, tool life and wear; economics of 
 machining; principles of non-traditional machining processes; principles of work holding, jigs 
 and fixtures; abrasive machining processes; NC/CNC machines and CNC programming. 
 
+📚 **Resources:**  
+- 🎥 [Lecture Videos](#)  
+- 📝 [Handwritten Notes](#)  
+- 📑 [Test Series](#)  
+- 🔄 [Revision Lectures](#)  
+
+
 #### **Metrology & Inspection**  
 -  Limits, fits and tolerances; linear and angular measurements; 
 comparators; interferometry; form and finish measurement; alignment and testing methods; 
 tolerance analysis in manufacturing and assembly; concepts of coordinate-measuring 
 machine (CMM).  
+
+📚 **Resources:**  
+- 🎥 [Lecture Videos](#)  
+- 📝 [Handwritten Notes](#)  
+- 📑 [Test Series](#)  
+- 🔄 [Revision Lectures](#)  
 
 #### **Production & Operations Research**  
 - **Computer Integrated Manufacturing:** Basic concepts of CAD/CAM and their integration tools; 
@@ -174,6 +308,13 @@ scheduling, materials requirement planning; lean manufacturing.
 **Inventory Control:** Deterministic models; safety stock inventory control systems. 
 **Operations Research:** Linear programming, simplex method, transportation, assignment, 
 network flow models, simple queuing models, PERT and CPM. 
+
+📚 **Resources:**  
+- 🎥 [Lecture Videos](#)  
+- 📝 [Handwritten Notes](#)  
+- 📑 [Test Series](#)  
+- 🔄 [Revision Lectures](#)  
+
 
 🔗 **[Back to Top](#syllabus-breakdown)**  
 
