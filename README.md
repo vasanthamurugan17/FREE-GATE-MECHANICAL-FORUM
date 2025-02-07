@@ -18,7 +18,8 @@ Click on the sections below to explore detailed topics:
 
 ## 📖 Section Details  
 
-### 📌 General Aptitude  
+### 📌 General Aptitude
+<a name="general-aptitude"></a>
 
 #### **Verbal Aptitude**  
 - Basic English grammar: tenses, articles, adjectives, prepositions, conjunctions, verb-noun agreement, and parts of speech  
