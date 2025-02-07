@@ -27,7 +27,7 @@ Click on the sections below to explore detailed topics:
 - Reading and comprehension, narrative sequencing 
 
 📚 **Resources:**  
-- 🎥 [Lecture Videos](#)  
+- 🎥 [Lecture Videos](#https://youtube.com/playlist?list=PLvTTv60o7qj8xhjIzJbRcr5d_hnm90Npv&feature=shared)  
 - 📝 [Handwritten Notes](#)  
 - 📑 [Test Series](#)  
 - 🔄 [Revision Lectures](#)   
